@@ -1,0 +1,32 @@
+* {
+    font-family: 'Nunito', sans-serif;
+  }
+
+.odkaz {
+    text-decoration: none;
+}
+
+.collap {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.text {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+#mapid {
+    height: 650px;
+}
+
+.ar-blue {
+    background-color: #000099;
+}
+
+.ar-flag {
+    width:350px;
+    border: 2px solid white;
+    border-radius: 10px;
+}

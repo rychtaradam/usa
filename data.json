@@ -1,0 +1,386 @@
+[
+  {
+    "stat": "Alabama",
+    "mesto": "Montgomery",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Alabama",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Montgomery",
+    "lat": -12.84,
+    "lon": 18.68
+  },
+  {
+    "stat": "Arizona",
+    "mesto": "Phoenix",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Arizona",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Phoenix",
+    "lat": -8.7,
+    "lon": -27.94
+  },
+  {
+    "stat": "Arkansas",
+    "mesto": "Little Rock",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Arkansas",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Little Rock",
+    "lat": -8.4,
+    "lon": 7.6
+  },
+  {
+    "stat": "California",
+    "mesto": "Sacramento",
+    "wikistatu": "https://cs.wikipedia.org/wiki/California",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Sacramento",
+    "lat": "05.85",
+    "lon": -41.34
+  },
+  {
+    "stat": "Colorado",
+    "mesto": "Denver",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Colorado",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Denver",
+    "lat": "03.10",
+    "lon": -13.84
+  },
+  {
+    "stat": "Connecticut",
+    "mesto": "Hartford",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Connecticut",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Hartford",
+    "lat": 11.14,
+    "lon": 38.18
+  },
+  {
+    "stat": "Delaware",
+    "mesto": "Dover",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Delaware",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Dover",
+    "lat": 4.4,
+    "lon": 34.96
+  },
+  {
+    "stat": "Florida",
+    "mesto": "Tallahassee",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Florida",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Tallahassee",
+    "lat": -16.6,
+    "lon": 22.95
+  },
+  {
+    "stat": "Georgia",
+    "mesto": "Atlanta",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Georgia",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Atlanta",
+    "lat": -9.43,
+    "lon": 21.77
+  },
+  {
+    "stat": "Idaho",
+    "mesto": "Boise",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Idaho",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Boise",
+    "lat": 14.14,
+    "lon": -30.27
+  },
+  {
+    "stat": "Illinois",
+    "mesto": "Springfield",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Illinois",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Springfield",
+    "lat": 2,
+    "lon": 12
+  },
+  {
+    "stat": "Indiana",
+    "mesto": "Indianapolis",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Indiana",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Indianapolis",
+    "lat": 3.05,
+    "lon": 17.33
+  },
+  {
+    "stat": "Iowa",
+    "mesto": "Des Moines",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Iowa",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Des Moines",
+    "lat": 6.16,
+    "lon": 4.89
+  },
+  {
+    "stat": "Kansas",
+    "mesto": "Topeka",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Kansas",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Topeka",
+    "lat": 0.7,
+    "lon": 1.61
+  },
+  {
+    "stat": "Kentucky",
+    "mesto": "Frankfort",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Kentucky",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Frankfort",
+    "lat": -0.09,
+    "lon": 19.85
+  },
+  {
+    "stat": "Louisiana",
+    "mesto": "Baton Rouge",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Louisiana",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Baton Rouge",
+    "lat": -17.74,
+    "lon": 10
+  },
+  {
+    "stat": "Maine",
+    "mesto": "Augusta",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Maine",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Augusta",
+    "lat": 17.61,
+    "lon": 41.65
+  },
+  {
+    "stat": "Maryland",
+    "mesto": "Annapolis",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Maryland",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Annapolis",
+    "lat": 3.8,
+    "lon": 33.23
+  },
+  {
+    "stat": "Massachusetts",
+    "mesto": "Boston",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Massachusetts",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Boston",
+    "lat": 13.07,
+    "lon": 40.18
+  },
+  {
+    "stat": "Michigan",
+    "mesto": "Lansing",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Michigan",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Lansing",
+    "lat": 9.71,
+    "lon": 19.17
+  },
+  {
+    "stat": "Minnesota",
+    "mesto": "Saint Paul",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Minnesota",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Saint Paul",
+    "lat": 13.44,
+    "lon": 5.5
+  },
+  {
+    "stat": "Mississippi",
+    "mesto": "Jackson",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Mississippi",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Jackson",
+    "lat": -13.6,
+    "lon": 11.65
+  },
+  {
+    "stat": "Missouri",
+    "mesto": "Jefferson City",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Missouri",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Jefferson City",
+    "lat": -0.2,
+    "lon": 7.5
+  },
+  {
+    "stat": "Montana",
+    "mesto": "Helena",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Montana",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Helena",
+    "lat": 19.15,
+    "lon": -22.7
+  },
+  {
+    "stat": "Nebraska",
+    "mesto": "Lincoln",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Nebraska",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Lincoln",
+    "lat": 4.48,
+    "lon": -0.06
+  },
+  {
+    "stat": "Nevada",
+    "mesto": "Carson City",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Nevada",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Carson City",
+    "lat": 7.73,
+    "lon": -37.28
+  },
+  {
+    "stat": "New Hampshire",
+    "mesto": "Concord",
+    "wikistatu": "https://cs.wikipedia.org/wiki/New Hampshire",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Concord",
+    "lat": 14.54,
+    "lon": 39.58
+  },
+  {
+    "stat": "New Jersey",
+    "mesto": "Trenton",
+    "wikistatu": "https://cs.wikipedia.org/wiki/New Jersey",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Trenton",
+    "lat": 7.12,
+    "lon": 35.96
+  },
+  {
+    "stat": "New Mexico",
+    "mesto": "Santa Fe",
+    "wikistatu": "https://cs.wikipedia.org/wiki/New Mexico",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Santa Fe",
+    "lat": -5.55,
+    "lon": -16.37
+  },
+  {
+    "stat": "New York",
+    "mesto": "Albany",
+    "wikistatu": "https://cs.wikipedia.org/wiki/New York",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Albany",
+    "lat": 12.62,
+    "lon": 36.09
+  },
+  {
+    "stat": "North Carolina",
+    "mesto": "Raleigh",
+    "wikistatu": "https://cs.wikipedia.org/wiki/North Carolina",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Raleigh",
+    "lat": -3.54,
+    "lon": 31.21
+  },
+  {
+    "stat": "North Dakota",
+    "mesto": "Bismarck",
+    "wikistatu": "https://cs.wikipedia.org/wiki/North Dakota",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Bismarck",
+    "lat": 17.68,
+    "lon": -6.03
+  },
+  {
+    "stat": "Ohio",
+    "mesto": "Columbus",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Ohio",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Columbus",
+    "lat": 4.06,
+    "lon": 22.45
+  },
+  {
+    "stat": "Oklahoma",
+    "mesto": "Oklahoma City",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Oklahoma",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Oklahoma City",
+    "lat": -7.05,
+    "lon": -1.68
+  },
+  {
+    "stat": "Oregon",
+    "mesto": "Salem",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Oregon",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Salem",
+    "lat": 19.73,
+    "lon": -39.74
+  },
+  {
+    "stat": "Pennsylvania",
+    "mesto": "Harrisburg",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Pennsylvania",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Harrisburg",
+    "lat": 6.39,
+    "lon": 32.27
+  },
+  {
+    "stat": "Rhode Island",
+    "mesto": "Providence",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Rhode Island",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Providence",
+    "lat": 11.64,
+    "lon": 39.93
+  },
+  {
+    "stat": "South Carolina",
+    "mesto": "Columbia",
+    "wikistatu": "https://cs.wikipedia.org/wiki/South Carolina",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Columbia",
+    "lat": -8.08,
+    "lon": 27.65
+  },
+  {
+    "stat": "South Dakota",
+    "mesto": "Pierre",
+    "wikistatu": "https://cs.wikipedia.org/wiki/South Dakota",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Pierre",
+    "lat": 12.33,
+    "lon": -5.59
+  },
+  {
+    "stat": "Tennessee",
+    "mesto": "Nashville",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Tennessee",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Nashville",
+    "lat": -4.76,
+    "lon": 16.99
+  },
+  {
+    "stat": "Texas",
+    "mesto": "Austin",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Texas",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Austin",
+    "lat": -18.21,
+    "lon": -2.35
+  },
+  {
+    "stat": "Utah",
+    "mesto": "Salt Lake City",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Utah",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Salt Lake City",
+    "lat": 6.78,
+    "lon": -24.76
+  },
+  {
+    "stat": "Vermont",
+    "mesto": "Montpelier",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Vermont",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Montpelier",
+    "lat": 16.43,
+    "lon": 36.93
+  },
+  {
+    "stat": "Virginia",
+    "mesto": "Richmond",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Virginia",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Richmond",
+    "lat": 0.54,
+    "lon": 32.53
+  },
+  {
+    "stat": "Washington",
+    "mesto": "Olympia",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Washington",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Olympia",
+    "lat": 23.9,
+    "lon": -38.23
+  },
+  {
+    "stat": "West Virginia",
+    "mesto": "Charleston",
+    "wikistatu": "https://cs.wikipedia.org/wiki/West Virginia",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Charleston",
+    "lat": 0.76,
+    "lon": 25.62
+  },
+  {
+    "stat": "Wisconsin",
+    "mesto": "Madison",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Wisconsin",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Madison",
+    "lat": 9.7,
+    "lon": 11.53
+  },
+  {
+    "stat": "Wyoming",
+    "mesto": "Cheyenne",
+    "wikistatu": "https://cs.wikipedia.org/wiki/Wyoming",
+    "wikimesta": "https://cs.wikipedia.org/wiki/Cheyenne",
+    "lat": 6.07,
+    "lon": -13.85
+  }
+]
