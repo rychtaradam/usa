@@ -27,6 +27,7 @@ $(document).ready(function(){
                 $('#infobox').collapse("show");
                 $('#mesto').text(data[i].mesto);
                 $('#stat').text(data[i].stat);
+                $('#popisek').text(data[i].popisek);
                 $('#wikimesta').attr("href", data[i].wikimesta);
                 $('#wikistatu').attr("href", data[i].wikistatu);
             })

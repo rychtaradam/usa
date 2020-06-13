@@ -5,7 +5,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Alabama",
     "wikimesta": "https://cs.wikipedia.org/wiki/Montgomery",
     "lat": -12.84,
-    "lon": 18.68
+    "lon": 18.68,
+    "popisek": "je hlavní město, druhé nejlidnatější město a čtvrté nejlidnatější město metropolitní oblasti na jihu Spojených států, ve státě Alabama. Je sídlem Montgomery County.[1] Nachází se na jihovýchodě Alabamy. Podle censu z roku 2000 zde žilo 201 568 obyvatel."
   },
   {
     "stat": "Arizona",
@@ -13,7 +14,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Arizona",
     "wikimesta": "https://cs.wikipedia.org/wiki/Phoenix",
     "lat": -8.7,
-    "lon": -27.94
+    "lon": -27.94,
+    "popisek": "je hlavní město státu Arizona na jihozápadě Spojených států amerických. Jedná se zároveň i o největší město Arizony a sídlo okresu Maricopa County. Město bylo založeno 25. února 1881 a v jazycích indiánů bylo nazvané Hoozdo (doslova horoucí místo) (dle kmene Navajo) a Fiinigis (dle kmene Apačů). Phoenix je pátým největším městem USA. Rozkládá se na 1230,5 km² a žije zde 1 512 986 obyvatel (k roku 2006).[1] Metropolitní oblast Phoenixu je 13. největší v USA, dle odhadů z roku 2006 zde žilo 4 039 182 obyvatel."
   },
   {
     "stat": "Arkansas",
@@ -21,7 +23,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Arkansas",
     "wikimesta": "https://cs.wikipedia.org/wiki/Little Rock",
     "lat": -8.4,
-    "lon": 7.6
+    "lon": 7.6,
+    "popisek": "je hlavní a největší město amerického státu Arkansas. Zároveň je to sídlo okresu Pulaski. V roce 2010 zde žilo téměř 193 524 obyvatel. Metropolitní oblast, zahrnující města a městečka v okolí, má 699 757 obyvatel."
   },
   {
     "stat": "California",
@@ -29,7 +32,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/California",
     "wikimesta": "https://cs.wikipedia.org/wiki/Sacramento",
     "lat": "05.85",
-    "lon": -41.34
+    "lon": -41.34,
+    "popisek": "je hlavní město Kalifornie ve Spojených státech amerických. Žije zde 502 743 obyvatel (2007), je to 7. největší město Kalifornie. Hlavním městem Kalifornie je od 1. ledna 1855. Je to sídlo stejnojmenného okresu a zároveň je kulturním a ekonomickým centrem metropolitní oblasti rozkládající se v pěti okresech. Metropolitní oblast má přibližně 2 136 600 obyvatel. Sacramento bylo založeno roku 1839."
   },
   {
     "stat": "Colorado",
@@ -37,7 +41,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Colorado",
     "wikimesta": "https://cs.wikipedia.org/wiki/Denver",
     "lat": "03.10",
-    "lon": -13.84
+    "lon": -13.84,
+    "popisek": "je hlavní město státu Colorado ve Spojených státech amerických. Rozkládá se na celkové ploše 401,3 km² a má 600 158 obyvatel, což ho činí největším městem státu Colorado a zároveň 27. nejlidnatějším městem USA. Metropolitní oblast Denveru je 17. nejlidnatější v USA a má téměř 3 miliony obyvatel. Město je významným hospodářským centrem oblasti. Tvoří samostatný okres."
   },
   {
     "stat": "Connecticut",
@@ -45,7 +50,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Connecticut",
     "wikimesta": "https://cs.wikipedia.org/wiki/Hartford",
     "lat": 11.14,
-    "lon": 38.18
+    "lon": 38.18,
+    "popisek": "je hlavní město státu Connecticut v USA. V roce 2010 zde žilo 124 775 obyvatel, v celé metropolitní oblasti však 1 188 241. Městem protéká řeka Connecticut."
   },
   {
     "stat": "Delaware",
@@ -53,7 +59,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Delaware",
     "wikimesta": "https://cs.wikipedia.org/wiki/Dover",
     "lat": 4.4,
-    "lon": 34.96
+    "lon": 34.96,
+    "popisek": "je hlavní a druhé největší město v americkém státu Delaware. Leží na řece St. Jones v pobřežní nížině řeky Delaware. Pojmenoval ho William Penn podle města Dover v hrabství Kent v Anglii. V roce 2010 mělo město 36 047 obyvatel."
   },
   {
     "stat": "Florida",
@@ -61,7 +68,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Florida",
     "wikimesta": "https://cs.wikipedia.org/wiki/Tallahassee",
     "lat": -16.6,
-    "lon": 22.95
+    "lon": 22.95,
+    "popisek": "je hlavní město Floridy. V roce 2008 počet obyvatel dosáhl 171 922 obyvatel, včetně aglomerace přibližně 357 000. Kromě toho, že je to hlavní město státu Florida, je to také okresní město Leon County."
   },
   {
     "stat": "Georgia",
@@ -69,7 +77,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Georgia",
     "wikimesta": "https://cs.wikipedia.org/wiki/Atlanta",
     "lat": -9.43,
-    "lon": 21.77
+    "lon": 21.77,
+    "popisek": "je hlavní a největší město amerického státu Georgie a centrální město deváté největší metropolitní oblasti ve Spojených státech. Je sídlem Fulton County, ale část města zasahuje i do DeKalb County. Podle odhadu z roku 2013 žije ve městě samotném 448 tisíc obyvatel, takže je na 40. místě v USA, avšak metropolitní oblast s více než 5,52 milióny obyvatel je 9. největší v USA a zároveň nejrychleji rostoucí."
   },
   {
     "stat": "Idaho",
@@ -77,7 +86,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Idaho",
     "wikimesta": "https://cs.wikipedia.org/wiki/Boise",
     "lat": 14.14,
-    "lon": -30.27
+    "lon": -30.27,
+    "popisek": "je hlavní a současně nejlidnatější město amerického státu Idaho, ležící v okrese Ada County. V roce 2010 v něm žilo 205 671 obyvatel[1] (616 561 včetně aglomerace), což z něj dělá největší město v širší oblasti severovýchodu kontinentálních Spojených států."
   },
   {
     "stat": "Illinois",
@@ -85,7 +95,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Illinois",
     "wikimesta": "https://cs.wikipedia.org/wiki/Springfield",
     "lat": 2,
-    "lon": 12
+    "lon": 12,
+    "popisek": "je hlavní město amerického státu Illinois a také sídlem Sangamon County. V roce 2013 zde žilo 117 006 obyvatel. Dříve se město jmenovalo po americkém viceprezidentovi Johnu C. Calhounovi – Calhoun. Mezi významné obyvatele patřil v minulosti americký prezident Abraham Lincoln."
   },
   {
     "stat": "Indiana",
@@ -93,7 +104,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Indiana",
     "wikimesta": "https://cs.wikipedia.org/wiki/Indianapolis",
     "lat": 3.05,
-    "lon": 17.33
+    "lon": 17.33,
+    "popisek": "je hlavní a největší město Indiany, státu USA. Žije zde přibližně 863 tisíc[1] obyvatel, což z Indianapolis dělá 14. největší město USA a po Chicagu a Detroitu třetí největší město středozápadu."
   },
   {
     "stat": "Iowa",
@@ -101,7 +113,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Iowa",
     "wikimesta": "https://cs.wikipedia.org/wiki/Des Moines",
     "lat": 6.16,
-    "lon": 4.89
+    "lon": 4.89,
+    "popisek": "je hlavní město amerického státu Iowa. Jeho název je z jazyka peoria, kde slovo mooyiinkweena, označující místní původní obyvatele (také Moingwena, algonkinská skupina), znamená \"ti s pokálenou tváří\" [2] (viz odžibvejské mooyiingwe téhož významu). Toto slovo bylo francouzskými kolonisty zkomoleno na (Des) Moines. V roce 1851 je Des Moines zmiňováno jako Fort Des Moines (tedy Pevnost mnichů) a v roce 1857 byl název zkrácen na Des Moines. Je to také správní město regionu Polk County. Žije zde necelých 200 000 obyvatel."
   },
   {
     "stat": "Kansas",
@@ -109,7 +122,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Kansas",
     "wikimesta": "https://cs.wikipedia.org/wiki/Topeka",
     "lat": 0.7,
-    "lon": 1.61
+    "lon": 1.61,
+    "popisek": "je hlavní město státu Kansas v USA. Město se rozkládá na březích řeky Kansas v okrese Shawnee County."
   },
   {
     "stat": "Kentucky",
@@ -117,7 +131,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Kentucky",
     "wikimesta": "https://cs.wikipedia.org/wiki/Frankfort",
     "lat": -0.09,
-    "lon": 19.85
+    "lon": 19.85,
+    "popisek": "je hlavní město amerického státu Kentucky a okresní město Franklin County. Podle sčítání lidu měl v roce 2010 25 527 obyvatel — je to tedy 5. nejméně obydlené hlavní město v USA."
   },
   {
     "stat": "Louisiana",
@@ -125,7 +140,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Louisiana",
     "wikimesta": "https://cs.wikipedia.org/wiki/Baton Rouge",
     "lat": -17.74,
-    "lon": 10
+    "lon": 10,
+    "popisek": "je hlavní město amerického státu Louisiana. Leží v jihovýchodní části státu u řeky Mississippi a je hlavní průmyslové, petrochemické a přístavní město na jihu USA."
   },
   {
     "stat": "Maine",
@@ -133,7 +149,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Maine",
     "wikimesta": "https://cs.wikipedia.org/wiki/Augusta",
     "lat": 17.61,
-    "lon": 41.65
+    "lon": 41.65,
+    "popisek": "je město ve Spojených státech amerických. Leží na severu země, na řece Kennebec v Nové Anglii. Od roku 1827 je hlavním městem státu Maine, žije zde 18 560 obyvatel (stav k roku 2000). Jde o nejseverovýchodnější hlavní město státu kontinentálních Spojených států amerických."
   },
   {
     "stat": "Maryland",
@@ -141,7 +158,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Maryland",
     "wikimesta": "https://cs.wikipedia.org/wiki/Annapolis",
     "lat": 3.8,
-    "lon": 33.23
+    "lon": 33.23,
+    "popisek": "je hlavní město státu Maryland ve Spojených státech amerických a sídlo okresu Anne Arundel County, ležící na břehu zátoky Chesapeake 50 km východně od Washingtonu. Rozkládá se na celkové ploše 19,7 km² a má 36 217 obyvatel (k r. 2004)."
   },
   {
     "stat": "Massachusetts",
@@ -149,7 +167,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Massachusetts",
     "wikimesta": "https://cs.wikipedia.org/wiki/Boston",
     "lat": 13.07,
-    "lon": 40.18
+    "lon": 40.18,
+    "popisek": "je hlavní město amerického státu Massachusetts, největší město Nové Anglie a významný přístav, ležící na východním pobřeží USA. S téměř 7,5 miliony obyvatel jde o pátou největší metropolitní oblast v USA."
   },
   {
     "stat": "Michigan",
@@ -157,7 +176,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Michigan",
     "wikimesta": "https://cs.wikipedia.org/wiki/Lansing",
     "lat": 9.71,
-    "lon": 19.17
+    "lon": 19.17,
+    "popisek": "je hlavní město státu Michigan ve Spojených státech amerických. Nachází se severozápadně od Detroitu, na řece Grand River. V roce 2010 zde žilo 114 297 obyvatel, v aglomeraci pak 464 036."
   },
   {
     "stat": "Minnesota",
@@ -165,7 +185,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Minnesota",
     "wikimesta": "https://cs.wikipedia.org/wiki/Saint Paul",
     "lat": 13.44,
-    "lon": 5.5
+    "lon": 5.5,
+    "popisek": "je hlavní a druhé nejlidnatější město amerického státu Minnesota. Město leží na severním břehu řeky Mississippi a sousedí s Minneapolisem, největším městem státu. Tato dvě města, neboli oblast Minneapolis-Saint Paul, tvoří s počtem 3,5 milionu obyvatel 16. největší velkoměstskou aglomeraci v USA. Saint Paul slouží jako okresní město Ramsey County, nejmenšímu a nejméně obydlenému okresu v Minnesotě."
   },
   {
     "stat": "Mississippi",
@@ -173,7 +194,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Mississippi",
     "wikimesta": "https://cs.wikipedia.org/wiki/Jackson",
     "lat": -13.6,
-    "lon": 11.65
+    "lon": 11.65,
+    "popisek": "je hlavní a zároveň nejlidnatější město amerického státu Mississippi. Je pojmenováno po prezidentovi Andrewu Jacksonovi. Město je situované na řece Pearl. Má rozlohu 276,7 km², z toho 271,7 km² tvoří pevnina a 5 km² (1,8 %) voda."
   },
   {
     "stat": "Missouri",
@@ -181,7 +203,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Missouri",
     "wikimesta": "https://cs.wikipedia.org/wiki/Jefferson City",
     "lat": -0.2,
-    "lon": 7.5
+    "lon": 7.5,
+    "popisek": "je hlavní město amerického státu Missouri a zároveň okresní město Cole County. Bylo pojmenováno po Thomasovi Jeffersonovi, třetím prezidentu Spojených států amerických. Je orientováno na jižní straně řeky Missouri, blízko geografickému středu státu."
   },
   {
     "stat": "Montana",
@@ -189,7 +212,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Montana",
     "wikimesta": "https://cs.wikipedia.org/wiki/Helena",
     "lat": 19.15,
-    "lon": -22.7
+    "lon": -22.7,
+    "popisek": "je hlavní město amerického státu Montana a současně sídelní město kraje Lewis and Clark. V roce 2010 mělo samotné město 28 190 obyvatel, s metropolitní aglomerací kraje Lewis and Clark a Jefferson pak 67 636 obyvatel."
   },
   {
     "stat": "Nebraska",
@@ -197,7 +221,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Nebraska",
     "wikimesta": "https://cs.wikipedia.org/wiki/Lincoln",
     "lat": 4.48,
-    "lon": -0.06
+    "lon": -0.06,
+    "popisek": "je hlavní a zároveň druhé největší město amerického státu Nebraska. Také slouží jako obecní město Lancaster County."
   },
   {
     "stat": "Nevada",
@@ -205,7 +230,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Nevada",
     "wikimesta": "https://cs.wikipedia.org/wiki/Carson City",
     "lat": 7.73,
-    "lon": -37.28
+    "lon": -37.28,
+    "popisek": "je hlavní město amerického státu Nevada a zároveň jeden z jeho okresů. Nachází se na západě státu, u hranic s Kalifornií. Žije zde asi 55 tisíc obyvatel, rozloha činí 407 km²."
   },
   {
     "stat": "New Hampshire",
@@ -213,7 +239,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/New Hampshire",
     "wikimesta": "https://cs.wikipedia.org/wiki/Concord",
     "lat": 14.54,
-    "lon": 39.58
+    "lon": 39.58,
+    "popisek": "je hlavním městem amerického státu New Hampshire a též sídelním městem kraje Merrimack, na jehož stejnojmenné řece se rozkládá. Podle sčítání lidu z roku 2000 mělo 40 765 a podle odhadů z roku 2007 má již přes 42 392 obyvatel. Vzniklo spojením vesnic Penacook, East Concord a West Concord."
   },
   {
     "stat": "New Jersey",
@@ -221,7 +248,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/New Jersey",
     "wikimesta": "https://cs.wikipedia.org/wiki/Trenton",
     "lat": 7.12,
-    "lon": 35.96
+    "lon": 35.96,
+    "popisek": "je od roku 1790 hlavní město amerického státu New Jersey a okresní město Mercer County. Podle sčítání lidu měl Trenton v roce 2007 82 804 obyvatel. Město zabírá plochu 21,1 km², z toho 19,8 km² je pevnina a 1,3 km² voda."
   },
   {
     "stat": "New Mexico",
@@ -229,7 +257,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/New Mexico",
     "wikimesta": "https://cs.wikipedia.org/wiki/Santa Fe",
     "lat": -5.55,
-    "lon": -16.37
+    "lon": -16.37,
+    "popisek": "je hlavní město Nového Mexika ve Spojených státech amerických."
   },
   {
     "stat": "New York",
@@ -237,7 +266,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/New York",
     "wikimesta": "https://cs.wikipedia.org/wiki/Albany",
     "lat": 12.62,
-    "lon": 36.09
+    "lon": 36.09,
+    "popisek": "je okres (county) státu New York, jeho sídelním městem je hlavní město státu Albany. Okres byl poprvé osídlen v roce 1624 Holandskou Západoindickou společností (Dutch West Indies Company). Angličané převzali správu nad územím v roce 1664 a okres Albany vznikl jako správní jednotka v roce 1683."
   },
   {
     "stat": "North Carolina",
@@ -245,7 +275,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/North Carolina",
     "wikimesta": "https://cs.wikipedia.org/wiki/Raleigh",
     "lat": -3.54,
-    "lon": 31.21
+    "lon": 31.21,
+    "popisek": "je hlavní město amerického státu Severní Karolína a ve státu druhé největší, za městem Charlotte. Žije v něm více než 370 tisíc obyvatel. Má přezdívku Dubové město pro velké množství zde rostoucích dubů."
   },
   {
     "stat": "North Dakota",
@@ -253,7 +284,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/North Dakota",
     "wikimesta": "https://cs.wikipedia.org/wiki/Bismarck",
     "lat": 17.68,
-    "lon": -6.03
+    "lon": -6.03,
+    "popisek": "je hlavní a po Fargu druhé největší město amerického státu Severní Dakota. Slouží také jako obecní město Burleigh County. Bismarck byl založen roku 1872 a jako hlavní město Severní Dakoty slouží od roku 1889, kdy získalo suverenitu."
   },
   {
     "stat": "Ohio",
@@ -261,7 +293,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Ohio",
     "wikimesta": "https://cs.wikipedia.org/wiki/Columbus",
     "lat": 4.06,
-    "lon": 22.45
+    "lon": 22.45,
+    "popisek": "je hlavní a největší město Ohia, státu USA. Bylo založeno v roce 1812 na soutoku řek Scioto a Olentangy. Hlavním městem Ohia je od roku 1816."
   },
   {
     "stat": "Oklahoma",
@@ -269,7 +302,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Oklahoma",
     "wikimesta": "https://cs.wikipedia.org/wiki/Oklahoma City",
     "lat": -7.05,
-    "lon": -1.68
+    "lon": -1.68,
+    "popisek": "je největší město státu Oklahoma a zároveň jeho hlavním městem. Je 31. nejlidnatějším v USA, žije zde přibližně 592 tisíc obyvatel, v roce 2005 to bylo 531 324 lidí. Nachází se zde vše, od zábavy až po průmysl."
   },
   {
     "stat": "Oregon",
@@ -277,7 +311,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Oregon",
     "wikimesta": "https://cs.wikipedia.org/wiki/Salem",
     "lat": 19.73,
-    "lon": -39.74
+    "lon": -39.74,
+    "popisek": "je hlavní město amerického státu Oregon. Město leží na řece Willamette. V Salemu žije podle sčítání z roku 2010 více než 154 637 lidí, což z něj po Portlandu a Eugene dělá třetí nejlidnatější město státu."
   },
   {
     "stat": "Pennsylvania",
@@ -285,7 +320,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Pennsylvania",
     "wikimesta": "https://cs.wikipedia.org/wiki/Harrisburg",
     "lat": 6.39,
-    "lon": 32.27
+    "lon": 32.27,
+    "popisek": "je hlavní město amerického státu Pensylvánie. Krom toho je sídelní město kraje Dauphin. Podle výsledku sčítání lidu v roce 2010 v něm žilo 48 528 obyvatel, čímž se řadí na 10. místo největších měst tohoto státu. V jeho aglomeraci však žije až k půl milionu lidí. Je pojmenováno podle prvního evropského přistěhovalce, který se na tomto místě usadil."
   },
   {
     "stat": "Rhode Island",
@@ -293,7 +329,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Rhode Island",
     "wikimesta": "https://cs.wikipedia.org/wiki/Providence",
     "lat": 11.64,
-    "lon": 39.93
+    "lon": 39.93,
+    "popisek": "je hlavní a nejlidnatější město amerického státu Rhode Island a jedno z nejdříve založených měst Spojených států. Je to zároveň třetí největší město v Nové Anglii. Leží na řece Providence."
   },
   {
     "stat": "South Carolina",
@@ -301,7 +338,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/South Carolina",
     "wikimesta": "https://cs.wikipedia.org/wiki/Columbia",
     "lat": -8.08,
-    "lon": 27.65
+    "lon": 27.65,
+    "popisek": "je hlavní město a zároveň největší město amerického státu Jižní Karolína. Columbia je sídlem Richland County, ale malá část města spadá pod Lexington County."
   },
   {
     "stat": "South Dakota",
@@ -309,7 +347,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/South Dakota",
     "wikimesta": "https://cs.wikipedia.org/wiki/Pierre",
     "lat": 12.33,
-    "lon": -5.59
+    "lon": -5.59,
+    "popisek": "je hlavní město Jižní Dakoty, státu USA. Jeho rozloha je 33,7 km²."
   },
   {
     "stat": "Tennessee",
@@ -317,7 +356,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Tennessee",
     "wikimesta": "https://cs.wikipedia.org/wiki/Nashville",
     "lat": -4.76,
-    "lon": 16.99
+    "lon": 16.99,
+    "popisek": "je hlavní město amerického státu Tennessee založené roku 1779."
   },
   {
     "stat": "Texas",
@@ -325,7 +365,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Texas",
     "wikimesta": "https://cs.wikipedia.org/wiki/Austin",
     "lat": -18.21,
-    "lon": -2.35
+    "lon": -2.35,
+    "popisek": "je hlavní město státu Texas."
   },
   {
     "stat": "Utah",
@@ -333,7 +374,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Utah",
     "wikimesta": "https://cs.wikipedia.org/wiki/Salt Lake City",
     "lat": 6.78,
-    "lon": -24.76
+    "lon": -24.76,
+    "popisek": "je hlavní a největší město amerického státu Utah. Žije v něm přibližně 178 tisíc obyvatel, jeho aglomerace ale má až 2 miliony obyvatel. Má přezdívku Křižovatka Západu. Salt Lake City bylo založeno v roce 1847. Je sídlem ústředí Církve Ježíše Krista Svatých posledních dnů. V roce 2002 se zde konaly zimní olympijské hry."
   },
   {
     "stat": "Vermont",
@@ -341,7 +383,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Vermont",
     "wikimesta": "https://cs.wikipedia.org/wiki/Montpelier",
     "lat": 16.43,
-    "lon": 36.93
+    "lon": 36.93,
+    "popisek": "je hlavní město amerického státu Vermont. Mimo to je též sídelní město kraji Washington County tohoto státu. Podle údajů z roku 2010 v něm žilo 7855 obyvatel, což z něj dělá nejmenší hlavní město amerického státu v USA."
   },
   {
     "stat": "Virginia",
@@ -349,7 +392,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Virginia",
     "wikimesta": "https://cs.wikipedia.org/wiki/Richmond",
     "lat": 0.54,
-    "lon": 32.53
+    "lon": 32.53,
+    "popisek": "je hlavní město amerického státu Virginie. Richmondem prochází několik důležitých vnitrostátních silnic, díky čemu byla celková populace města a jeho okolí 1,194,008 lidí během sčítání v roce 2000."
   },
   {
     "stat": "Washington",
@@ -357,7 +401,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Washington",
     "wikimesta": "https://cs.wikipedia.org/wiki/Olympia",
     "lat": 23.9,
-    "lon": -38.23
+    "lon": -38.23,
+    "popisek": "je hlavní město státu Washington a okresní město Thurston County. Bylo včleněno 28. ledna 1859. Podle sčítání lidu v roce 2010 mělo 46 478 obyvatel. Rozloha města je 48 km², z toho 43,3 km² zabírá pevnina a 4,7 km² (9,77 %) voda."
   },
   {
     "stat": "West Virginia",
@@ -365,7 +410,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/West Virginia",
     "wikimesta": "https://cs.wikipedia.org/wiki/Charleston",
     "lat": 0.76,
-    "lon": 25.62
+    "lon": 25.62,
+    "popisek": "je hlavním a největším městem amerického státu Západní Virginie nalézající se na soutoku řek Elk a Kanawha v okrese Kanawha. Údaje z roku 2000 uvádějí 53 421 obyvatel centrálního města."
   },
   {
     "stat": "Wisconsin",
@@ -373,7 +419,8 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Wisconsin",
     "wikimesta": "https://cs.wikipedia.org/wiki/Madison",
     "lat": 9.7,
-    "lon": 11.53
+    "lon": 11.53,
+    "popisek": "je hlavní město státu Wisconsin v USA. V roce 2010 činila populace 233 209 obyvatel, což Madison činí druhým největším městem ve státě Wisconsin, hned po Milwaukee, a 77. největším městem v USA. V Madisonu mimo jiné také sídlí University of Wisconsin-Madison."
   },
   {
     "stat": "Wyoming",
@@ -381,6 +428,7 @@
     "wikistatu": "https://cs.wikipedia.org/wiki/Wyoming",
     "wikimesta": "https://cs.wikipedia.org/wiki/Cheyenne",
     "lat": 6.07,
-    "lon": -13.85
+    "lon": -13.85,
+    "popisek": "je hlavní a největší město státu Wyoming ve Spojených státech amerických, hlavní město okresu Laramie County. Založeno bylo roku 1867. Rozkládá se na celkové ploše 57,9 km² a jeho populace je 59 456 obyvatel (2010). Hustota zalidnění je 969,6 obyv./km²."
   }
 ]
