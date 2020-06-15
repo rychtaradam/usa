@@ -1,0 +1,82 @@
+[
+  {
+    "pamatka": "Everglades National Park",
+    "stat": "Florida",
+    "lat": -26.3,
+    "lon": 31.18,
+    "wiki": "https://cs.wikipedia.org/wiki/Národní_park_Everglades",
+    "popisek": "je národní park v jižní části Floridy (USA), známý především svými rozsáhlými mokřady a specifickou faunou i flórou. Nadmořská výška je velice nízká – od 0 do 2,4 m n. m. Park byl zřízen 6. prosince 1947 prezidentem Harry S. Trumanem a v současné době se rozkládá na ploše 610 684 hektarů. V roce 1979 byl zapsán na seznam světového dědictví."
+  },
+  {
+    "pamatka": "Grand Canyon National Park",
+    "stat": "Arizona",
+    "lat": -3.33,
+    "lon": -26.74,
+    "wiki": "https://cs.wikipedia.org/wiki/Národní_park_Grand_Canyon",
+    "popisek": "je státem chráněné území ve Spojených státech amerických. Tento národní park, jehož převážnou část tvoří Velký kaňon (Grand Canyon), byl založen 26. února 1919. Rozkládá se na celkové ploše cca 4900 km² v okresech Coconino a Mohave v Arizoně. Patří mezi nejúchvatnější přírodní výtvory na naší planetě a vyhledávají ho turisté z celého světa."
+  },
+  {
+    "pamatka": "Great Smoky Mountains National Park",
+    "stat": "North Carolina",
+    "lat": -5.18,
+    "lon": 22.77,
+    "wiki": "https://cs.wikipedia.org/wiki/Národní_park_Great_Smoky_Mountains",
+    "popisek": "je národní park o rozloze 2110 km² v Appalačském pohoří na území Spojených států amerických, ve spolkových státech Severní Karolína a Tennessee. Byl založen 15. června 1934 a od roku 1983 patří ke světovému dědictví UNESCO. Les, který se nachází v národním parku, patří k nejstarším lesům na Zemi a je největším pralesem na východě USA."
+  },
+  {
+    "pamatka": "Independence Hall",
+    "stat": "Philadelphia",
+    "lat": 6.42,
+    "lon": 35.03,
+    "wiki": "https://cs.wikipedia.org/wiki/Independence_Hall",
+    "popisek": "je historicky významná budova ve Philadelphii v americkém státě Pensylvánie, dějiště důležitých událostí v dějinách USA."
+  },
+  {
+    "pamatka": "Mammoth Cave National Park",
+    "stat": "Kentucky",
+    "lat": -2.37,
+    "lon": 17.96,
+    "wiki": "https://cs.wikipedia.org/wiki/Mamutí_jeskyně_(USA)",
+    "popisek": "je nejdelší jeskyní světa. Jedná se o největší atrakci národního parku Mamutí jeskyně v Kentucky v USA. Známá délka všech podzemních prostorů v jeskyni je 630 km, další objevy ji ovšem každý rok o několik kilometrů prodlužují."
+  },
+  {
+    "pamatka": "Olympic National Park",
+    "stat": "Washington",
+    "lat": 25.77,
+    "lon": -38.67,
+    "wiki": "https://cs.wikipedia.org/wiki/Olympijský_národní_park",
+    "popisek": "se nachází na Olympijském poloostrově v americkém státě Washington. Může být rozdělen do tří částí, mezi něž patří pobřeží Pacifiku, Olympijské hory a deštný prales mírného pásma. Americký prezident Theodore Roosevelt původně vytvořil v roce 1909 národní památku Mount Olympus a poté co Kongres odhlasoval změnu na národní park, Franklin Roosevelt v roce 1938 založil Olympijský národní park. V roce 1976 se park stal mezinárodní biosférickou rezervací a v roce 1981 byl zařazen do světového dědictví UNESCO."
+  },
+  {
+    "pamatka": "Statue of Liberty",
+    "stat": "New York",
+    "lat": 8.47,
+    "lon": 36.53,
+    "wiki": "https://cs.wikipedia.org/wiki/Socha_Svobody",
+    "popisek": "je socha stojící na Ostrově svobody u New Yorku v USA. Ačkoliv by katastrálně měl náležet do Hudson County, New Jersey, od roku 1664 je Ostrov svobody součástí New Yorku."
+  },
+  {
+    "pamatka": "Taos Pueblo",
+    "stat": "New Mexico",
+    "lat": -4.02,
+    "lon": -15.34,
+    "wiki": "https://en.wikipedia.org/wiki/Taos_Pueblo",
+    "popisek": "is an ancient pueblo belonging to a Taos-speaking (Tiwa) Native American tribe of Puebloan people. It lies about 1 mile (1.6 km) north of the modern city of Taos, New Mexico. The pueblos are considered to be one of the oldest continuously inhabited communities in the United States.[3] This has been designated a UNESCO World Heritage Site."
+  },
+  {
+    "pamatka": "Yellowstone National Park",
+    "stat": "Wyoming/Idaho/Montana",
+    "lat": 14.41,
+    "lon": -21.16,
+    "wiki": "https://cs.wikipedia.org/wiki/Yellowstonský_národní_park",
+    "popisek": "je národní park nacházející se na území amerických států Wyoming (91 % parku), Montana (7,6 %) a Idaho (1,4 %). Byl vyhlášen 1. března 1872 na základě zákona schváleného americkým Kongresem a podepsaného prezidentem Ulysses S. Grantem.[2] Je nejstarším národním parkem na světě a je známý především pro svou divočinu a řadu geotermálních úkazů, zejména pak gejzír Old Faithful, který patří mezi nejoblíbenější atrakce parku.[3] Na území parku se nachází řada ekosystémů a dominantním z nich je subalpinský les."
+  },
+  {
+    "pamatka": "Yosemite National Park",
+    "stat": "California",
+    "lat": 3.13,
+    "lon": -38.38,
+    "wiki": "https://cs.wikipedia.org/wiki/Národní_park_Yosemite",
+    "popisek": "je národní park, který se rozkládá v okresech Tuolumne, Mariposa a Madera na východě střední Kalifornie na ploše 3081 km² v horách Sierry Nevady."
+  }
+]

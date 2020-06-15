@@ -1,6 +1,6 @@
 * {
     font-family: 'Nunito', sans-serif;
-  }
+}
 
 .odkaz {
     text-decoration: none;
@@ -29,4 +29,8 @@
     width:350px;
     border: 2px solid white;
     border-radius: 10px;
+}
+
+.ar-paticka {
+    padding: 20px 0;
 }
