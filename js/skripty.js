@@ -1,9 +1,9 @@
 $(document).ready(function(){
-    $('#hlavicka').load('../komponenty/hlavicka.html');
+    $('#hlavicka').load('./komponenty/hlavicka.html');
 });
 
 $(document).ready(function(){
-    $('#paticka').load('../komponenty/paticka.html');
+    $('#paticka').load('./komponenty/paticka.html');
 });
 
 // create the map
@@ -13,7 +13,7 @@ var mymap = L.map('mapid', {
 });
 
 // create the image
-var imageUrl = 'http://localhost/svg/mapa.svg',
+var imageUrl = './svg/mapa.svg',
     imageBounds = [[-27.098, -45.0], [27.098, 45.0]];
 
 L.imageOverlay(imageUrl, imageBounds).addTo(mymap);
@@ -21,7 +21,7 @@ L.imageOverlay(imageUrl, imageBounds).addTo(mymap);
 //L.rectangle(imageBounds).addTo(mymap);
 
 $(document).ready(function(){
-    $.getJSON('http://localhost/data.json', function( data ) {
+    $.getJSON('./data.json', function( data ) {
         $.each(data, function (i, item) {
             L.marker([data[i].lat, data[i].lon]).addTo(mymap).bindTooltip("<b>" + data[i].mesto + "</b>, " + data[i].stat).on("click", function(event) {
                 $('#infobox').collapse("show");
